@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # firstvue
 
 > test vue js for the first time
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# testVueJs
+>>>>>>> 7b1fe7b3ecc6a94143c6ce5366ac3ac25e24abe4
